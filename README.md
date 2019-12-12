@@ -1,2 +1,0 @@
-# CanvasOnYahoo
-Created with CodeSandbox
